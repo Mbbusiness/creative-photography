@@ -37,7 +37,7 @@
 <body onLoad="setTimeout('delayedRedirect()', 8000)" style="background-color:#fff;">
 <?php
 						$mail = $_POST['email'];
-						$to = "info@domain.com";/* YOUR EMAIL HERE */
+						$to = "uent.onlineservice@gmail.com";/* YOUR EMAIL HERE */
 						$subject = "Review from Wilio";
 						$headers = "From: Review from Wilio <noreply@yourdomain.com>";
 						$message = "DETAILS\n";

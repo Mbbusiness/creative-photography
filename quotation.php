@@ -37,7 +37,7 @@
 						$mail = $_POST['email'];
 
 						/*$subject = "".$_POST['subject'];*/
-						$to = "info@domain.com";		/* YOUR EMAIL HERE */
+						$to = "uent.onlineservice@gmail.com";		/* YOUR EMAIL HERE */
 						$subject = "Quotation from Wilio";
 						$headers = "From: Quotation from Wilio <noreply@yourdomain.com>";
 						$message = "DETAILS\n";
